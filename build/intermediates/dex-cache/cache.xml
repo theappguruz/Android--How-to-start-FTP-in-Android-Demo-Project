@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Soft\adt-bundle-windows-x86_64-20140321\adt-bundle-windows-x86_64-20140321\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\Talati App\Project\Android--How-to-start-FTP-in-Android-Demo-Project-master\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_7dabbd473f47c61af3f146f178abacdae4a7d408.jar" />
+    </item>
+    <item
+        jar="F:\Talati App\Project\Android--How-to-start-FTP-in-Android-Demo-Project-master\app\libs\commons-net-3.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cd0d5510908225f76c5fe5a3f1df4fa44866f81e">
+        <dex dex="F:\Talati App\Project\Android--How-to-start-FTP-in-Android-Demo-Project-master\app\build\intermediates\pre-dexed\debug\commons-net-3.3_51138d422c72ebf6f06e47ebda724c58e3147a00.jar" />
+    </item>
+
+</items>
